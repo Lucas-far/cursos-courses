@@ -1,9 +1,9 @@
 
 
-Django
+Programação Web com Python e Django Framework: Essencial
 https://www.udemy.com/certificate/UC-d67acb70-697e-4f7e-9b39-9c83cc5bb6b6/
 
-Python
+Programação em Python do básico ao avançado
 https://www.udemy.com/certificate/UC-c1f6552f-0790-4ea9-af30-18d2b5b12663/
 
 
